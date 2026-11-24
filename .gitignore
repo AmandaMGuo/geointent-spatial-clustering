@@ -1,0 +1,22 @@
+# Restricted research data
+survey_responses.csv
+downloaded_data_polygons.gpkg
+data/raw/
+data/private/
+
+# Original team documents
+ADS - Report V4.docx
+P10 GeoDesignHub.docx
+
+# Restricted outputs
+output_location_differences2.xlsx
+
+# Python environment
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
