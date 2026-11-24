@@ -1,0 +1,9 @@
+geopandas
+pandas
+numpy
+networkx
+shapely
+bokeh
+matplotlib
+openpyxl
+jupyter
