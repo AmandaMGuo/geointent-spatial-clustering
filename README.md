@@ -15,6 +15,10 @@ The industry project aimed to automate the categorisation of citizen-generated s
 - Course Leader: Dr Nuno Pinto
 - Module Grade: 76/100
 - Original Project: February–May 2025
+- 
+- ## Computational Workflow
+
+![Algorithm Workflow](figures/algorithm_workflow.png)
 
 ## 2. Research Problem
 
